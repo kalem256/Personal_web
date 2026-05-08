@@ -301,7 +301,7 @@
     .service-card p { color: var(--muted); font-size: 0.88rem; line-height: 1.8; }
     .service-num {
       position: absolute; bottom: 1.5rem; right: 1.5rem;
-      font-family: 'DM Serif Display', serif; font-size: 4rem;
+      font-family: 'DM Serif Display', serif; font-size: 3rem;
       color: var(--border); line-height: 1;
     }
 
